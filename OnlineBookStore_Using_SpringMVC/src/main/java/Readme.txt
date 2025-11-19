@@ -45,3 +45,17 @@ id int AI PK
 status varchar(255) 
 totalAmount double 
 user_id int
+
+Table name : orders_book
+
+Table Desc :
+Columns:
+Order_id int 
+books_id int
+
+Table name : user_book
+
+Table Desc :
+Columns:
+User_id int 
+cart_id int
