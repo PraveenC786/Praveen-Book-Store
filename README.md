@@ -1,13 +1,19 @@
 # 📚 Praveen Book Store -- Online Book Store Web Application
 
+![Spring MVC](https://img.shields.io/badge/Spring-MVC-brightgreen)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-orange)
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![JSP](https://img.shields.io/badge/JSP-JSTL-blue)
+![REST API](https://img.shields.io/badge/API-REST-orange)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-Backend-green)
-![MySQL](https://img.shields.io/badge/MySQL-Database-yellow)
+![JSP](https://img.shields.io/badge/JSP-JSTL-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Tomcat](https://img.shields.io/badge/Tomcat-Server-red)
+![Postman](https://img.shields.io/badge/API_Testing-Postman-critical)
+![Maven](https://img.shields.io/badge/Build-Maven-purple)
 
 A complete web-based **Online Book Store** application built using
-**Java, JDBC, Servlets, JSP, JSTL, and MySQL**, following the **MVC
+**Java, Spring MVC, Hibernate, JSP, JSTL, and MySQL**, following the **MVC
 architecture**.\
 Users can register, browse books, add items to their cart, place orders,
 and manage their purchases.
