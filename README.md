@@ -5,7 +5,6 @@
 ![Servlet](https://img.shields.io/badge/Servlet-Backend-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-yellow)
 ![Tomcat](https://img.shields.io/badge/Tomcat-Server-red)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 A complete web-based **Online Book Store** application built using
 **Java, JDBC, Servlets, JSP, JSTL, and MySQL**, following the **MVC
