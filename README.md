@@ -36,13 +36,15 @@ and manage their purchases.
 
 ## 🧰 Technology Stack
 
-  Layer          Technologies Used
-  -------------- ----------------------------------
-  Backend        Java, JDBC, Servlets
-  Frontend       HTML, CSS, JavaScript, JSP, JSTL
-  Database       MySQL
-  Server         Apache Tomcat
-  Architecture   MVC
+
+| Layer         | Technologies Used                         |
+|---------------|-------------------------------------------|
+| Backend       | Java,Spring MVC, Hibernate JDBC, Servlets |
+| Frontend      | JSP, JSTL, CSS, JavaScript                |
+| Database      | MySQL                                     |
+| Server        | Apache Tomcat                             |
+| Architecture  | MVC                                       |
+
 
 ------------------------------------------------------------------------
 
@@ -104,11 +106,7 @@ Deploy on **Tomcat** and visit:
 
 ## 🙋‍♂️ Author
 
-**Praveen**\
-Full Stack Developer -- Java \| Web Development
+**Praveen C**\
+Java Full Stack Developer\
 
-------------------------------------------------------------------------
 
-## 📜 License
-
-MIT License
