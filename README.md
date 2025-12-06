@@ -24,12 +24,12 @@ and manage their purchases.
 
 ### 👤 User Features
 
--   User **registration and login**\
--   Search books by **title, author, or category**\
--   View **detailed book information** with images\
--   Add books to **shopping cart**\
--   Place orders through a simple **checkout**\
--   View and manage **past orders**\
+-   User **registration and login**
+-   Search books by **title, author, or category**
+-   View **detailed book information** with images
+-   Add books to **shopping cart**
+-   Place orders through a simple **checkout**
+-   View and manage **past orders**
 -   **Cancel orders** anytime
 
 ------------------------------------------------------------------------
@@ -97,9 +97,9 @@ Deploy on **Tomcat** and visit:
 
 ## 📦 Future Enhancements
 
--   Wishlist\
--   Reviews & Ratings\
--   Admin Dashboard\
+-   Wishlist
+-   Reviews & Ratings
+-   Admin Dashboard
 -   Email Notifications
 
 ------------------------------------------------------------------------
@@ -107,6 +107,6 @@ Deploy on **Tomcat** and visit:
 ## 🙋‍♂️ Author
 
 **Praveen C**\
-Java Full Stack Developer\
+Java Full Stack Developer
 
 
